@@ -78,6 +78,6 @@ If you have any questions please reach out at our Sites
 ### Example
 [link to Deployed Site](https://sleepy-escarpment-46328.herokuapp.com/)
 Screenshots of Web Page
-![img of Welcome page](./public/img/gamekeeperWelcome.png)
-![img of Wishlist Page](./public/img/gamekeeperWishlist.png)
-![img of Login Page](./public/img/gamekeeperLogin.png)
+![img of Member page](./public/img/gamekeepermembers.png)
+![img of Wishlist Page](./public/img/gamekeeperwishlist.png)
+![img of empty mygames Page](./public/img/gamekeepernogames.png)
