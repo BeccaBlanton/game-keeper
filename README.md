@@ -76,7 +76,7 @@ If you have any questions please reach out at our Sites
 
 
 ### Example
-[link to Deployed Site]()
+[link to Deployed Site](heroku link)
 Screenshots of Web Page
 ![img of Welcome page](./public/img/gamekeeperWelcome.png)
 ![img of Wishlist Page](./public/img/gamekeeperWishlist.png)
