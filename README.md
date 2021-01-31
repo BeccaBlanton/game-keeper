@@ -86,3 +86,6 @@ Screenshots of Web Page
 ![img of Member page](./public/img/gamekeepermembers.png)
 ![img of Wishlist Page](./public/img/gamekeeperwishlist.png)
 ![img of empty mygames Page](./public/img/gamekeepernogames.png)
+![img of phone screenshot of welcome page](./public/img/gamekeepermobilewelcome.png)
+![img of phone screenshot of members page](./public/img/gamekeepermobilemembers.png)
+![img of phone screenshot of wishlist page](./public/img/gamekeepermobilewishlist.png) 
