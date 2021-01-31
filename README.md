@@ -77,6 +77,11 @@ If you have any questions please reach out at our Sites
 
 ### Example
 [link to Deployed Site](https://sleepy-escarpment-46328.herokuapp.com/)
+
+if you would like to test the site feel free to use 
+user@test.com
+pw:password
+
 Screenshots of Web Page
 ![img of Member page](./public/img/gamekeepermembers.png)
 ![img of Wishlist Page](./public/img/gamekeeperwishlist.png)
