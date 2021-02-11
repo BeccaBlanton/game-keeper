@@ -67,6 +67,10 @@ form.signup, form.login {
   border-radius: 1rem;
   height: 260px;
 }
+img {
+  width: 120px;
+  height: 140px;
+}
 
 a {
   color: greenyellow;
